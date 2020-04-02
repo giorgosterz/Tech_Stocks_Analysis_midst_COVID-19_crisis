@@ -1,1 +1,1 @@
-# Tech-Stocks-Analysis-midst-COVID-19-crisis
+# Tech Stocks Analysis midst COVID-19 crisis
