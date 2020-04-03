@@ -29,4 +29,4 @@ One can describe Microsoft as a hybrid. We can see that the company draws revenu
 
 Let's jump to the Jupyter Notebook where we will analyze these stocks and comment on the findings!
 
-*Source: [https://www.visualcapitalist.com/how-tech-giants-make-billions](https://www.visualcapitalist.com/how-tech-giants-make-billions/)* 
+(*Source: [https://www.visualcapitalist.com/how-tech-giants-make-billions](https://www.visualcapitalist.com/how-tech-giants-make-billions/)*) 
