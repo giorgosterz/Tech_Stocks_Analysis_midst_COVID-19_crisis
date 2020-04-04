@@ -27,6 +27,6 @@ One can describe Microsoft as a hybrid. We can see that the company draws revenu
 
 <img src="https://github.com/giorgosterz/Tech_Stocks_Analysis_midst_COVID-19_crisis/blob/master/Screenshots/Microsoft.png" width="500" height="400">
 
-Let's jump to the Jupyter Notebook where we will analyze these stocks and comment on the findings!
+Let's jump to the [Jupyter Notebook](https://github.com/giorgosterz/Tech_Stocks_Analysis_midst_COVID-19_crisis/blob/master/Tech%20Stocks%20Analysis.ipynb/) where we will analyze these stocks and comment on the findings!
 
 (*Source: [https://www.visualcapitalist.com/how-tech-giants-make-billions](https://www.visualcapitalist.com/how-tech-giants-make-billions/)*) 
